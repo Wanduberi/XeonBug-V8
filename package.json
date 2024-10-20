@@ -1,5 +1,5 @@
 {
-    "name": "XBug-Bot",
+    "name": "Luna-Bot",
     "version": "8.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "GlobalTechInfo",
+    "author": "Lunatech",
     "license": "Apache-2.0",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.7",
